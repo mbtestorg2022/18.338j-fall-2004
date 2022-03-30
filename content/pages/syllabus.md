@@ -23,7 +23,7 @@ Our aim is to touch upon various branches of the study of infinite random matric
 Prerequisites
 -------------
 
-No particular prerequisites are needed. We assume that students have had an undergraduate course in Linear Algebra ([18.06](/courses/18-06-linear-algebra-spring-2005)) or its equivalent and some exposure to probability ([6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/) or [6.042J](/courses/6-042j-mathematics-for-computer-science-fall-2010/) are more than sufficient). Knowledge of combinatorial theory is a bonus. A familiarity with MATLAB® will also be useful.
+No particular prerequisites are needed. We assume that students have had an undergraduate course in Linear Algebra ([18.06](/courses/18-06-linear-algebra-spring-2005)) or its equivalent and some exposure to probability ([6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006) or [6.042J](/courses/6-042j-mathematics-for-computer-science-fall-2010) are more than sufficient). Knowledge of combinatorial theory is a bonus. A familiarity with MATLAB® will also be useful.
 
 Content
 -------

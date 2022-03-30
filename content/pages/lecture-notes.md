@@ -38,19 +38,19 @@ Experiments with the Classical Ensembles ([PDF]({{< baseurl >}}/resources/handou
 {{< tdopen >}}
 _Histogramming  
   
-_bellcurve.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/bellcurve.m))  
-histn.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/histn.m))  
-momwigner.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/momwigner.m))  
+_bellcurve.m ({{% resource_link "7c5028da-7d82-ea53-6f01-2d4e2459f57c" "M" %}})  
+histn.m ({{% resource_link "d2ccba96-a779-377e-5ea1-2d0187404ab6" "M" %}})  
+momwigner.m ({{% resource_link "148b712e-2ed8-c73d-3ce8-e9ea58550f31" "M" %}})  
   
 _Experiments with the Classical Ensembles_  
   
-wigner.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/wigner.m))  
-wishart.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/wishart.m))  
-manova.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/manova.m))  
-wigneredf.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/wigneredf.m))  
-wishartedf.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/wishartedf.m))  
-manovaedf.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/manovaedf.m))  
-classicexpt.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/classicexpt.m))
+wigner.m ({{% resource_link "5e7a9ce6-e208-5df2-5b4f-0fda525c300a" "M" %}})  
+wishart.m ({{% resource_link "0a7a6121-c9ce-9c02-3426-edcd4538a135" "M" %}})  
+manova.m ({{% resource_link "52ec8cdd-77a1-e3e2-3d4a-92ff2340dc91" "M" %}})  
+wigneredf.m ({{% resource_link "c612f5fb-7d9c-4aaa-ecba-05df64b99573" "M" %}})  
+wishartedf.m ({{% resource_link "aa8e2b36-e624-1852-bca0-a50f097fb185" "M" %}})  
+manovaedf.m ({{% resource_link "b1d9ccbb-d0d4-bdce-316f-1331c0de91b1" "M" %}})  
+classicexpt.m ({{% resource_link "b386c0bb-c47a-1179-bc74-cb5e4dbc7af4" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ The "Semi-Circular" Element: Central Limit Theorem for Infinite Random Matrices
 Tridiagonal Matrices, Orthogonal Polynomials and the Classical Random Matrix Ensembles ([PDF]({{< baseurl >}}/resources/handout5)) (Courtesy of Brian Sutton. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-trijacobi.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/trijacobi.m))
+trijacobi.m ({{% resource_link "a524a8a4-cb32-9c1e-9f0c-93278343372d" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ Numerical Methods in Random Matrices ([PDF]({{< baseurl >}}/resources/handout7))
 {{< tdopen >}}
 _Essentials of Finite Random Matrix Theory  
   
-_jsymeig.m ([M](/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/lecture-notes/jsymeig.m))
+_jsymeig.m ({{% resource_link "37003b7a-a6b8-a54e-1f4b-0b457c6c5276" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
