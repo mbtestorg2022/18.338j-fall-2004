@@ -252,7 +252,7 @@ Eigenvalue Spectrum Fluctuations
 {{< tdopen >}}
 
 
-Johansson's Paper 1: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Shape Fluctuations and Random Matrices (PDF)](http://arxiv.org/pdf/math/9903134.pdf)  
+Johansson's Paper 1: [Shape Fluctuations and Random Matrices (PDF)](http://arxiv.org/pdf/math/9903134.pdf)  
   
 Johansson's Paper 2: [On fluctuations of eigenvalues of random Hermitian matrices](https://projecteuclid.org/download/pdf_1/euclid.dmj/1077231893)  
   
@@ -282,7 +282,7 @@ Dr. Roland Speicher Talk
 Free Probability and Fluctuations
 {{< tdclose >}}
 {{< tdopen >}}
-Speicher and Mingo: Paper 1, Paper 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://arxiv.org/PS_cache/arxiv/pdf/0903/0903.4601v2.pdf))
+Speicher and Mingo: Paper 1, Paper 2 ([PDF](http://arxiv.org/PS_cache/arxiv/pdf/0903/0903.4601v2.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
